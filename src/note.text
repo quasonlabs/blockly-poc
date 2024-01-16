@@ -1,0 +1,11 @@
+
+3 types -> amr_groups , non_amr_block, amr_block
+
+1 -> prevstate -> nonamr , amrgroup 
+    next -> nonamr , amrgroup 
+
+2 -> prev -> amrgroup , nonamr
+    next -> amrgroup , nonamr
+
+3 -> prev -> amrblock
+    next -> amrblock    
