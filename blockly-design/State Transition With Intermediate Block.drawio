@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.2">
   <diagram name="Page-1" id="3ZrooI3U6qbRGqZ6Vllj">
-    <mxGraphModel dx="3144" dy="2124" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2264" dy="1211" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,9 +100,6 @@
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-193" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="880" y="480" width="390" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-1" value="Blockly Example&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="637" y="160" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1125" y="80" width="35" height="30" as="geometry" />
@@ -373,9 +370,9 @@
           <mxGeometry x="1161" y="1081" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-79" value="Block 1: Released&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Released&lt;/span&gt;&lt;div&gt;Int Block 2: Planned&lt;br&gt;&lt;div&gt;Block 2: Submitted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1341" y="1081" width="120" height="69" as="geometry" />
+          <mxGeometry x="1341" y="1040" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-80" value="Traffic management returns path for S1 to S8 but only releases S1 and S2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-80" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Traffic management returns path for S1 to S8 but only releases S1 and S2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1200" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TLwYNxiseGx7yxIyI5v0-82" target="TLwYNxiseGx7yxIyI5v0-92">
@@ -468,7 +465,7 @@
         <mxCell id="TLwYNxiseGx7yxIyI5v0-110" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:In-Transit&lt;/span&gt;&lt;div&gt;Int Block 2: Planned&lt;br&gt;&lt;div&gt;Block 2: Submitted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2121" y="1081" width="120" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-111" value="If the AMR is standing at S1 then the node will be immediatly Completed and the Int Block 1 will be in Transit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;If the AMR is standing at S1 then the node will be immediatly Completed and the Int Block 1 will be in Transit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="1200" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-112" value="TNext Pass the TM cahnges the INT nodes" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -486,7 +483,7 @@
         <mxCell id="TLwYNxiseGx7yxIyI5v0-116" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: In-Transit&lt;/div&gt;&lt;div&gt;Int Block 3: Released&lt;/div&gt;&lt;div&gt;Int Block 4: Released&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: Submitted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2811" y="1081" width="120" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-117" value="Now during the next call the TM changes the path to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 .&amp;nbsp;&lt;div&gt;Since the S2 node is already released that cannot be changed&amp;nbsp; and the next pass releases nodes till S9&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-117" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Now during the next call the TM changes the path to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 .&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Since the S2 node is already released that cannot be changed&amp;nbsp; and the next pass releases nodes till S9&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2520" y="1220" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TLwYNxiseGx7yxIyI5v0-119" target="TLwYNxiseGx7yxIyI5v0-129">
@@ -625,7 +622,7 @@
         <mxCell id="TLwYNxiseGx7yxIyI5v0-162" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: Completed&lt;/div&gt;&lt;div&gt;Int Block 3: In Transit&lt;/div&gt;&lt;div&gt;Int Block 4: Released&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: Released&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1301" y="1651" width="139" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-163" value="Now during the next call the TM changes the path to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 .&amp;nbsp;&lt;div&gt;Since the S2 node is already released that cannot be changed&amp;nbsp; and the next pass releases nodes till S9&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-163" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Now during the next call the TM changes the path to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 .&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Since the S2 node is already released that cannot be changed&amp;nbsp; and the next pass releases nodes till S9&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1790" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-164" value="Final leg of execution when the AMR it going to destination Node" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -643,7 +640,7 @@
         <mxCell id="TLwYNxiseGx7yxIyI5v0-168" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: Completed&lt;/div&gt;&lt;div&gt;Int Block 3: Completed&lt;/div&gt;&lt;div&gt;Int Block 4: Completed&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: In Transit&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1911" y="1651" width="139" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-169" value="Now during the next call the TM changes the path to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 .&amp;nbsp;&lt;div&gt;Since the S2 node is already released that cannot be changed&amp;nbsp; and the next pass releases nodes till S9&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-169" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Now during the next call the TM changes the path to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 .&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Since the S2 node is already released that cannot be changed&amp;nbsp; and the next pass releases nodes till S9&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1620" y="1790" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-170" value="When the actions in the final node are being executed" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -661,7 +658,7 @@
         <mxCell id="TLwYNxiseGx7yxIyI5v0-174" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: Completed&lt;/div&gt;&lt;div&gt;Int Block 3: Completed&lt;/div&gt;&lt;div&gt;Int Block 4: Completed&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: In Progress&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2521" y="1653" width="139" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-175" value="The AMR has reached the destination node and is executing the actions in the node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-175" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The AMR has reached the destination node and is executing the actions in the node&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2230" y="1792" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-176" value="THe mission Execution is completed" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -679,7 +676,7 @@
         <mxCell id="TLwYNxiseGx7yxIyI5v0-180" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: Completed&lt;/div&gt;&lt;div&gt;Int Block 3: Completed&lt;/div&gt;&lt;div&gt;Int Block 4: Completed&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: Completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="3111" y="1651" width="139" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-181" value="The AMR has reached the destination node and is executing the actions in the node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-181" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The AMR has reached the destination node and is executing the actions in the node&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2820" y="1790" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-182" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
@@ -708,9 +705,6 @@
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-190" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="313.5" y="195.5" width="20" height="545" as="geometry" />
-        </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TLwYNxiseGx7yxIyI5v0-221" target="TLwYNxiseGx7yxIyI5v0-34">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-221" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Initial Path planned was&amp;nbsp; S1-&amp;gt; S2 -&amp;gt; S5 -&amp;gt; S8 During execution the path changes to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 (S1 and S2 was already released during the first pass)&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1662" y="185.5" width="1149" height="154.5" as="geometry" />
