@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.2">
   <diagram name="Page-1" id="3ZrooI3U6qbRGqZ6Vllj">
-    <mxGraphModel dx="1310" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,7 +338,7 @@
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-99" value="Block 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-99" value="Int Block 1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="720" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TLwYNxiseGx7yxIyI5v0-101" target="TLwYNxiseGx7yxIyI5v0-105">
@@ -358,7 +358,7 @@
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-105" value="Block 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-105" value="Int Block 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-106" value="AMR is travelling to the node S8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -438,7 +438,7 @@
           <mxGeometry x="40" y="949.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-130" value="Block 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1202" width="60" height="30" as="geometry" />
+          <mxGeometry x="41" y="1203" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TLwYNxiseGx7yxIyI5v0-132" target="TLwYNxiseGx7yxIyI5v0-136">
           <mxGeometry relative="1" as="geometry" />
@@ -457,7 +457,7 @@
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-136" value="Block 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-136" value="Int Block 1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TLwYNxiseGx7yxIyI5v0-138" target="TLwYNxiseGx7yxIyI5v0-142">
@@ -477,7 +477,7 @@
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TLwYNxiseGx7yxIyI5v0-142" value="Block 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-142" value="Int Block 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TLwYNxiseGx7yxIyI5v0-144">
@@ -589,6 +589,24 @@
         </mxCell>
         <mxCell id="TLwYNxiseGx7yxIyI5v0-181" value="The AMR has reached the destination node and is executing the actions in the node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7220" y="700" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-182" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="610" y="980" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-183" value="These are intermediate nodes. The block will be a backend block like that of Goto and will not be visible in canvas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1066" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-184" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="600" y="716" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-185" value="These are intermediate nodes. The block will be a backend block like that of Goto and will not be visible in canvas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637" y="730" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-186" value="Int Block 3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TLwYNxiseGx7yxIyI5v0-187" value="Int Block 4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1152" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
