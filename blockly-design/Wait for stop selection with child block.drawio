@@ -632,109 +632,109 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-286" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;DRAFT&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="360" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-287" value="This is not a mandatory status, Draft status is created when the Mission creation plan has the Release mission flag unchecked. This is needed whent he mission need to be released by the supervisor.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="570" y="755" width="290" height="90" as="geometry" />
+          <mxGeometry x="660" y="755" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-289" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-290" target="UTm4Zk_rKjQkRJbE-eGC-291">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-290" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;NEW&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="360" y="895" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="895" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-291" value="When the mission is released from the Draft status it transition into New status. If the draft status is skipped then the mission will be created in new status.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="570" y="880" width="290" height="90" as="geometry" />
+          <mxGeometry x="660" y="880" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-292" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-293" target="UTm4Zk_rKjQkRJbE-eGC-294">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-293" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;ASSIGNED&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF99;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1025" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="1025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-294" value="When the mission in New status gets assigend to the AMR then the mission status goes to Assigned status.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF99;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1010" width="290" height="90" as="geometry" />
+          <mxGeometry x="660" y="1010" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-295" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-296" target="UTm4Zk_rKjQkRJbE-eGC-297">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-296" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN TRANSIT&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#C9EDF0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1535" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-297" value="This status comes whent he AMR is traveling towards the node.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#C9EDF0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1520" width="290" height="90" as="geometry" />
+          <mxGeometry x="650" y="1520" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-298" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-299" target="UTm4Zk_rKjQkRJbE-eGC-300">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-299" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;SUBMITTED&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1155" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="1155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-300" value="This is the special status for the mission lines , this status comes when the blcosk or the node is submitted for the path planning.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1140" width="290" height="90" as="geometry" />
+          <mxGeometry x="660" y="1140" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-301" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-302" target="UTm4Zk_rKjQkRJbE-eGC-303">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-302" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;PLANNED&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1275" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-303" value="This status is used only for the intermediate nodes, this represents the intermediate node that is planned but not released. This can be changed during the next pass of traffic management.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1260" width="290" height="90" as="geometry" />
+          <mxGeometry x="650" y="1260" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-304" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-305" target="UTm4Zk_rKjQkRJbE-eGC-306">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-305" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;RELEASED&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFFF66;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1405" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-306" value="This si the status for the block , when the node is relqeased by the master controllr to the AMR. Sometimes the node may be released by traffic management but Master controller can hold it back .&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FFFF66;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1390" width="290" height="90" as="geometry" />
+          <mxGeometry x="650" y="1390" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-307" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-308" target="UTm4Zk_rKjQkRJbE-eGC-309">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-308" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN PROGRESS&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1665" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-309" value="when the AMR is at the node and the actions at the node are being processed.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1650" width="290" height="90" as="geometry" />
+          <mxGeometry x="650" y="1650" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-310" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-311" target="UTm4Zk_rKjQkRJbE-eGC-312">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-311" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;COMPLETED&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1795" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-312" value="When all the actions on the node are completed and the AMR is ready to move to the next node.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1780" width="290" height="90" as="geometry" />
+          <mxGeometry x="650" y="1780" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-314" target="UTm4Zk_rKjQkRJbE-eGC-315">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-314" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;SKIPPED&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-315" value="When the stop is intentionally skipped by the user, this can happen when the user does not select a stop in the wait for stop selection block.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1905" width="290" height="90" as="geometry" />
+          <mxGeometry x="650" y="1905" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-316" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-317" target="UTm4Zk_rKjQkRJbE-eGC-318">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-317" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FAILED&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2025" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="2025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-318" value="When AMR reports an action as failed on the node.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2010" width="290" height="90" as="geometry" />
+          <mxGeometry x="650" y="2010" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-319" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-320" target="UTm4Zk_rKjQkRJbE-eGC-321">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-320" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;CANCELLED&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2145" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="2145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-321" value="When User cancels a mission, all the remaining mission line status should move to cancelled status.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2130" width="290" height="90" as="geometry" />
+          <mxGeometry x="650" y="2130" width="290" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
