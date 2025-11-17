@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="7StBhYJCGz3VgdhPudYw">
-    <mxGraphModel dx="4100" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,43 +33,40 @@
           <mxGeometry x="350" y="725.5" width="620" height="424.5" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-9" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="3212" y="1724" width="390" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-11" target="UTm4Zk_rKjQkRJbE-eGC-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2022" y="2494" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-11" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="2620" y="1725.5" width="390" height="280" as="geometry" />
+          <mxGeometry x="2620" y="1975.5" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-13" target="UTm4Zk_rKjQkRJbE-eGC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-13" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="1724" width="390" height="280" as="geometry" />
+          <mxGeometry x="2020" y="1974" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-15" target="UTm4Zk_rKjQkRJbE-eGC-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-15" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="1405" y="1724" width="390" height="280" as="geometry" />
+          <mxGeometry x="1405" y="1974" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-17" target="UTm4Zk_rKjQkRJbE-eGC-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-17" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="1125.5" width="390" height="280" as="geometry" />
+          <mxGeometry x="1431" y="1335.5" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-19" target="UTm4Zk_rKjQkRJbE-eGC-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-19" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="2206" y="1126.5" width="390" height="280" as="geometry" />
+          <mxGeometry x="2206" y="1336.5" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-21" target="UTm4Zk_rKjQkRJbE-eGC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-21" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="1127.5" width="390" height="280" as="geometry" />
+          <mxGeometry x="2920" y="1337.5" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-23" target="UTm4Zk_rKjQkRJbE-eGC-17">
           <mxGeometry relative="1" as="geometry" />
@@ -291,8 +288,8 @@
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-81" value="Draft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1230" y="876.5" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-82" value="Block 1: Draft (S1)&lt;div&gt;Block 2: Draft&amp;nbsp; (S8)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="876.5" width="120" height="39" as="geometry" />
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-82" value="Block 1: Draft (S1)&lt;div&gt;Block 2: Draft&amp;nbsp; (S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Draft (WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Draft&amp;nbsp; (S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Draft&amp;nbsp; (S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="860" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-83" value="Mission Approved by the User" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1800" y="745.5" width="220" height="30" as="geometry" />
@@ -306,9 +303,6 @@
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-86" value="New" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1750" y="876.5" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-87" value="Block 1: New (S1)&lt;div&gt;Block 2: New (S8)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="876.5" width="120" height="39" as="geometry" />
-        </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-88" value="Mission Assigned to the AMR" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2240" y="745.5" width="220" height="30" as="geometry" />
         </mxCell>
@@ -320,9 +314,6 @@
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-91" value="Assigned" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2200" y="876.5" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-92" value="Block 1: Assigned&lt;div&gt;Block 2: Assigned&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="876.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-93" value="Blocks Submitted to Traffic Management" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2740" y="745.5" width="220" height="30" as="geometry" />
@@ -336,9 +327,6 @@
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-96" value="Assigned" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="2700" y="876.5" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-97" value="Block 1: Submitted&lt;div&gt;Block 2: Submitted&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2880" y="876.5" width="120" height="39" as="geometry" />
-        </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-98" value="Traffic Management Returns the path" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3230" y="745.5" width="220" height="30" as="geometry" />
         </mxCell>
@@ -348,32 +336,23 @@
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-100" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3370" y="794.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-101" value="Assigned" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-101" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="3190" y="876.5" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-102" value="Block 1: Submitted&lt;div&gt;Block 2: Submitted&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3370" y="876.5" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-103" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;At this point the Traffic management returns the path with intermediate node based on the commit ms.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;To travel between S1 to S8 say the path is S1 -&amp;gt; S2 -&amp;gt; S5 -&amp;gt; S8&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;S1 and S8 are actual blocks but the remaining are intermediate nodes.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3079" y="945.5" width="550" height="81" as="geometry" />
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-103" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;This status is seen only if the mission is created in the draft status else start with New status&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="997.5" width="480" height="81" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-104" value="Traffic Management Returns the path" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1511" y="1175.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="1511" y="1385.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-105" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1471" y="1225" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="1471" y="1435" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-106" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1651" y="1224.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1651" y="1434.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-107" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1471" y="1306.5" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-108" value="Block 1: Released&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Released&lt;/span&gt;&lt;div&gt;Int Block 2: Planned&lt;br&gt;&lt;div&gt;Block 2: Submitted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1651" y="1265.5" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-109" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Traffic management returns path for S1 to S8 but only releases S1 and S2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1425.5" width="550" height="60" as="geometry" />
+          <mxGeometry x="1471" y="1516.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-111" target="UTm4Zk_rKjQkRJbE-eGC-119">
           <mxGeometry relative="1" as="geometry" />
@@ -451,40 +430,31 @@
           <mxGeometry x="350" y="1385.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-133" value="AMR is travelling to the node S8" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2291" y="1175.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="2291" y="1385.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-134" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2251" y="1225" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="2251" y="1435" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-135" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2431" y="1224.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2431" y="1434.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-136" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2251" y="1306.5" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-137" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:In-Transit&lt;/span&gt;&lt;div&gt;Int Block 2: Planned&lt;br&gt;&lt;div&gt;Block 2: Submitted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2431" y="1306.5" width="120" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-138" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;If the AMR is standing at S1 then the node will be immediatly Completed and the Int Block 1 will be in Transit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="1425.5" width="550" height="60" as="geometry" />
+          <mxGeometry x="2251" y="1516.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-139" value="TNext Pass the TM cahnges the INT nodes" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2981" y="1175.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="2981" y="1385.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-140" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2941" y="1225" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="2941" y="1435" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-141" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3121" y="1224.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="3121" y="1434.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-142" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2941" y="1306.5" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-143" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: In-Transit&lt;/div&gt;&lt;div&gt;Int Block 3: Released&lt;/div&gt;&lt;div&gt;Int Block 4: Released&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: Submitted&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3121" y="1306.5" width="120" height="119" as="geometry" />
+          <mxGeometry x="2941" y="1516.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-144" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Now during the next call the TM changes the path to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 .&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Since the S2 node is already released that cannot be changed&amp;nbsp; and the next pass releases nodes till S9&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2830" y="1445.5" width="550" height="60" as="geometry" />
+          <mxGeometry x="2830" y="1655.5" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-146" target="UTm4Zk_rKjQkRJbE-eGC-156">
           <mxGeometry relative="1" as="geometry" />
@@ -608,76 +578,64 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-180" value="Final Pass All the Nodes are released" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1471" y="1745.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="1471" y="1995.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-181" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="1795" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="1431" y="2045" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-182" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1611" y="1794.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1611" y="2044.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-183" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="1876.5" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-184" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: Completed&lt;/div&gt;&lt;div&gt;Int Block 3: In Transit&lt;/div&gt;&lt;div&gt;Int Block 4: Released&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: Released&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1611" y="1876.5" width="139" height="119" as="geometry" />
+          <mxGeometry x="1431" y="2126.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-185" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Now during the next call the TM changes the path to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 .&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Since the S2 node is already released that cannot be changed&amp;nbsp; and the next pass releases nodes till S9&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="2015.5" width="550" height="60" as="geometry" />
+          <mxGeometry x="1310" y="2285.5" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-186" value="Final leg of execution when the AMR it going to destination Node" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2081" y="1745.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="2081" y="1995.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-187" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2041" y="1795" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="2041" y="2045" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-188" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2221" y="1794.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2221" y="2044.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-189" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2041" y="1876.5" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-190" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: Completed&lt;/div&gt;&lt;div&gt;Int Block 3: Completed&lt;/div&gt;&lt;div&gt;Int Block 4: Completed&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: In Transit&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2221" y="1876.5" width="139" height="119" as="geometry" />
+          <mxGeometry x="2041" y="2126.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-191" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Now during the next call the TM changes the path to S1 -&amp;gt; S2 -&amp;gt; S3 -&amp;gt; S6 -&amp;gt; S9 -&amp;gt; S8 .&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Since the S2 node is already released that cannot be changed&amp;nbsp; and the next pass releases nodes till S9&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="2015.5" width="550" height="60" as="geometry" />
+          <mxGeometry x="1930" y="2265.5" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-192" value="When the actions in the final node are being executed" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2691" y="1747.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="2691" y="1997.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-193" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2651" y="1797" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="2651" y="2047" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-194" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2831" y="1796.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2831" y="2046.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-195" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2651" y="1878.5" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-196" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: Completed&lt;/div&gt;&lt;div&gt;Int Block 3: Completed&lt;/div&gt;&lt;div&gt;Int Block 4: Completed&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: In Progress&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2831" y="1878.5" width="139" height="119" as="geometry" />
+          <mxGeometry x="2651" y="2128.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-197" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The AMR has reached the destination node and is executing the actions in the node&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="2017.5" width="550" height="60" as="geometry" />
+          <mxGeometry x="2540" y="2267.5" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-198" value="THe mission Execution is completed" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3281" y="1745.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="2091" y="2515.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-199" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3241" y="1795" width="120" height="40.5" as="geometry" />
+          <mxGeometry x="2051" y="2565" width="120" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-200" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3421" y="1794.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="2231" y="2564.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-201" value="Completed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3241" y="1876.5" width="120" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-202" value="Block 1: Completed&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Int Block 1:Completed&lt;/span&gt;&lt;div&gt;Int Block 2: Completed&lt;/div&gt;&lt;div&gt;Int Block 3: Completed&lt;/div&gt;&lt;div&gt;Int Block 4: Completed&lt;/div&gt;&lt;div&gt;&lt;div&gt;Block 2: Completed&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="3421" y="1876.5" width="139" height="119" as="geometry" />
+          <mxGeometry x="2051" y="2646.5" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-203" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;The AMR has reached the destination node and is executing the actions in the node&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3130" y="2015.5" width="550" height="60" as="geometry" />
+          <mxGeometry x="3130" y="2265.5" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-204" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="930" y="1835.5" width="20" height="230" as="geometry" />
@@ -774,7 +732,7 @@
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-233" value="Block 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-233" value="Group&lt;div&gt;Block 1&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="940" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-234" value="Block 2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -784,7 +742,124 @@
           <mxGeometry x="350" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTm4Zk_rKjQkRJbE-eGC-236" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Draft&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;New&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Assigned&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;In Progress&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Completed.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3220" y="200" width="340" height="332.75" as="geometry" />
+          <mxGeometry x="3770" y="465.5" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-238" value="Block 1: New (S1)&lt;div&gt;Block 2: New (S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: New (WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: New (S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: New (S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1911" y="858.5" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-239" value="Block 1: Assigned (S1)&lt;div&gt;Block 2: Assigned (S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Assigned (WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Assigned (S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Assigned (S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="850" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-240" value="Block 1: Submitted(S1)&lt;div&gt;Block 2: Submitted(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Assigned (WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Assigned (S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Assigned (S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="850" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-241" value="Block 1: Released(S1)&lt;div&gt;Block 2: Assigned(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Assigned (WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Assigned (S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Assigned (S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="850" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-242" value="Block 1: Completed(S1)&lt;div&gt;Block 2: Submitted(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Assigned (WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Assigned (S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Assigned (S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1625" y="1485.5" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-243" value="Block 1: Completed(S1)&lt;div&gt;Block 2: In Transit(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Assigned (WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Assigned (S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Assigned (S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2412" y="1495.5" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-244" value="Block 1: Completed(S1)&lt;div&gt;Block 2: In Progress(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Assigned (WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Assigned (S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Assigned (S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3096" y="1491" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-245" value="Block 1: Completed(S1)&lt;div&gt;Block 2: Completed(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: In Progress(WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Assigned (S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Assigned (S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="2105.5" width="191" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-246" value="Block 1: Completed(S1)&lt;div&gt;Block 2: Completed(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Completed(WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Skipped(S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Submitted(S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="2105.5" width="191" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-247" value="Block 1: Completed(S1)&lt;div&gt;Block 2: Completed(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Completed(WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Int Stop 1: Released (S3)&lt;br&gt;Int Stop 2: Planned(S6)&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Skipped(S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Submitted(S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="2100" width="191" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;strokeWidth=4;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-248" target="UTm4Zk_rKjQkRJbE-eGC-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-248" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="1975" width="390" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-249" value="When the actions in the final node are being executed" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3271" y="1997" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-250" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3231" y="2046.5" width="120" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-251" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3411" y="2046" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-252" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3231" y="2128" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-253" value="Block 1: Completed(S1)&lt;div&gt;Block 2: Completed(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Completed(WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Int Stop 1: Completed(S3)&lt;br&gt;Int Stop 2: In Progress(S6)&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Skipped(S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Released(S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3380" y="2099.5" width="191" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;strokeWidth=4;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-11" target="UTm4Zk_rKjQkRJbE-eGC-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-255" target="UTm4Zk_rKjQkRJbE-eGC-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-255" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="3196" y="2494" width="390" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-256" value="When the actions in the final node are being executed" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3267" y="2516" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-257" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3227" y="2565.5" width="120" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-258" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3407" y="2565" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-259" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3227" y="2647" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-260" value="Block 1: Completed(S1)&lt;div&gt;Block 2: Completed(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Completed(WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Int Stop 1: Completed(S3)&lt;br&gt;Int Stop 2: Completed(S6)&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Skipped(S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: In Transit(S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3376" y="2618.5" width="191" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="UTm4Zk_rKjQkRJbE-eGC-262" target="UTm4Zk_rKjQkRJbE-eGC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-262" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="2492" width="390" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-263" value="When the actions in the final node are being executed" style="text;html=1;whiteSpace=wrap;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2721" y="2514" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-264" value="Mission Status&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2681" y="2563.5" width="120" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-265" value="Block Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2861" y="2563" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-266" value="In Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2681" y="2645" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-267" value="Block 1: Completed(S1)&lt;div&gt;Block 2: Completed(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Completed(WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Int Stop 1: Completed(S3)&lt;br&gt;Int Stop 2: Completed(S6)&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Skipped(S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: In Progress(S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="2616.5" width="191" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-270" value="Block 1: Completed(S1)&lt;div&gt;Block 2: Completed(S2)&lt;/div&gt;&lt;div&gt;Group&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Block 1: Completed(WFSS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Int Stop 1: Completed(S3)&lt;br&gt;Int Stop 2: Completed(S6)&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;ChildBlock 1: Skipped(S6)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Child Block 2: Completed(S9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="2627.75" width="191" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-273" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Once the mission is released from the draft status the status transitions to New.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="999" width="440" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-274" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Once the Assignment logic kicks in and the mission gets assigned to the AMR.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="2145" y="997.5" width="440" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-275" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;The first stop will be submitted to the Traffic management&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="999" width="440" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-276" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Traffic management releases the first node , if the AMR is already stancing on the node then the node is immediatly completed. Even if the traffic management releases the subsequent node the Master Controller will release one node at a time.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="997.5" width="440" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-277" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Once the first node is completed the MC submits next node to traffic management.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1625" width="480" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="UTm4Zk_rKjQkRJbE-eGC-278" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Once the first node is completed the MC submits next node to traffic management.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="1634.5" width="480" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
