@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
   <diagram name="Page-1" id="b-xea4KQSBOVM41RQJqF">
-    <mxGraphModel dx="6090" dy="3540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2597" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
         <mxCell id="WgZLP1kKd0I3ynB1QW9x-54" edge="1" parent="1" source="WgZLP1kKd0I3ynB1QW9x-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="WgZLP1kKd0I3ynB1QW9x-56" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WgZLP1kKd0I3ynB1QW9x-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;TM SUBMITTED&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="WgZLP1kKd0I3ynB1QW9x-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;PATH REQUESTED&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-673" y="1235" as="geometry" />
         </mxCell>
         <mxCell id="WgZLP1kKd0I3ynB1QW9x-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="This is the special status for the mission lines , this status comes when the blcosk or the node is submitted for the path planning.&amp;nbsp;" vertex="1">
@@ -174,7 +174,7 @@
         <mxCell id="WgZLP1kKd0I3ynB1QW9x-57" edge="1" parent="1" source="WgZLP1kKd0I3ynB1QW9x-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="WgZLP1kKd0I3ynB1QW9x-59" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WgZLP1kKd0I3ynB1QW9x-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;ON PATH (This needs to have better name)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="WgZLP1kKd0I3ynB1QW9x-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;PATH PLANNED&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-683" y="1355" as="geometry" />
         </mxCell>
         <mxCell id="WgZLP1kKd0I3ynB1QW9x-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="This status is used only for the intermediate nodes, this represents the intermediate node that is planned but not released. This can be changed during the next pass of traffic management.&amp;nbsp;" vertex="1">
