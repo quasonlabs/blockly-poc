@@ -350,7 +350,7 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-164" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-166" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF99;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;SUBMITTED&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF99;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;SUBMITTED /&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;PATH_REQUESTED&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1900" y="255" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-166" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF99;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the order is sent to TM&amp;nbsp;" vertex="1">
@@ -359,7 +359,7 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-167" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-169" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;SUBMITTED&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;SUBMITTED/&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;PATH_REQUESTED&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2800" y="295" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the MC releases node to TM" vertex="1">
