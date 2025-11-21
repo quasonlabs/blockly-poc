@@ -505,7 +505,7 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-218" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-220" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-219" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;PATH PLANNED&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-219" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;PATH PLANNED?&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="4510" y="295" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-220" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="The Node exists on the order but not released" vertex="1">
@@ -517,7 +517,7 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-222" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;COMPLETED&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="4510" y="635" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-223" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the Master releases next node.&amp;nbsp;" vertex="1">
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-223" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="All the actions on the node is completed and AMR is ready to move to next node.&amp;nbsp;" vertex="1">
           <mxGeometry height="90" width="290" x="4720" y="620" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-224" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-226" value="">
