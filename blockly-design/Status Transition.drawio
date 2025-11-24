@@ -247,37 +247,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;PATH IN PLANNING&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="285" as="geometry" />
+          <mxGeometry height="60" width="120" x="1900" y="425" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="TM has started processing the order and is releaseing update node by node.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="270" as="geometry" />
+          <mxGeometry height="90" width="290" x="2110" y="410" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-102" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-104" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;COMPLETED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="405" as="geometry" />
+          <mxGeometry height="60" width="120" x="1900" y="545" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="All the nodes on the order are completed." vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="390" as="geometry" />
+          <mxGeometry height="90" width="290" x="2110" y="530" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-105" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-107" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FAILED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="515" as="geometry" />
+          <mxGeometry height="60" width="120" x="1900" y="655" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="TM fialed to provide path.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="500" as="geometry" />
+          <mxGeometry height="90" width="290" x="2110" y="640" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-108" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-110" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;CANCELLED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="645" as="geometry" />
+          <mxGeometry height="60" width="120" x="1900" y="785" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="User cancels the mission before the TM complets the order.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="630" as="geometry" />
+          <mxGeometry height="90" width="290" x="2110" y="770" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="1260" width="820" x="2560" as="geometry" />
@@ -576,10 +576,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3jCVmn8zOSNpn3vcC0iJ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;PATH REQUESTED&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1890" y="165" as="geometry" />
+          <mxGeometry height="60" width="120" x="1890" y="305" as="geometry" />
         </mxCell>
         <mxCell id="3jCVmn8zOSNpn3vcC0iJ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the MC releases node to TM" vertex="1">
-          <mxGeometry height="90" width="290" x="2100" y="150" as="geometry" />
+          <mxGeometry height="90" width="290" x="2100" y="290" as="geometry" />
         </mxCell>
         <mxCell id="3jCVmn8zOSNpn3vcC0iJ-4" edge="1" parent="1" source="3jCVmn8zOSNpn3vcC0iJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="3jCVmn8zOSNpn3vcC0iJ-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -632,8 +632,17 @@
         <mxCell id="3jCVmn8zOSNpn3vcC0iJ-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;ASSIGNED&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2750" y="95" as="geometry" />
         </mxCell>
-        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Initial state for the order lines .&amp;nbsp;" vertex="1">
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Initial state for the order lines . (Can come up with different status)" vertex="1">
           <mxGeometry height="90" width="290" x="2960" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-22" edge="1" parent="1" source="3jCVmn8zOSNpn3vcC0iJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="3jCVmn8zOSNpn3vcC0iJ-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;ASSIGNED&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1890" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Initial state for the order.&amp;nbsp;" vertex="1">
+          <mxGeometry height="90" width="290" x="2100" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
