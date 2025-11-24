@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Page-1" id="FK1_Q2BvS3pfE_4uZ75u">
-    <mxGraphModel dx="1369" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1340" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FAILED&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1050" y="1045" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="If AMR failed to start execution after the order is sent. Can be a hard error.&amp;nbsp;" vertex="1">
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="If AMR failed to start execution after the order is sent. Can be a hard error. One line fails the mission fails.&amp;nbsp;" vertex="1">
           <mxGeometry height="90" width="290" x="1260" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-67" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-69" value="">
@@ -202,23 +202,14 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the mission is cancelled without any mission lines completed.&amp;nbsp;" vertex="1">
           <mxGeometry height="90" width="290" x="1260" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-70" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-72" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Partially&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Failed&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1050" y="1405" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the mission line fails to execute when the partial mission is completed.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="1260" y="1390" as="geometry" />
-        </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-73" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-75" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Partially Cancelled&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1050" y="1525" as="geometry" />
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;color: rgb(255, 0, 0);&quot;&gt;Partially Cancelled?&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1050" y="1395" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="User cancels the mission when the partial mission is completed.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="1260" y="1510" as="geometry" />
+          <mxGeometry height="90" width="290" x="1260" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-76" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-78" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -239,19 +230,10 @@
           <mxGeometry height="90" width="290" x="1260" y="780" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Partially Failed and Partially Cancelled status are needed when doing WM so its good to have it now itself.&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="640" x="957" y="1615" as="geometry" />
+          <mxGeometry height="60" width="640" x="957" y="1485" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="880" width="820" x="1700" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-88" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-90" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;NEW&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="159.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="TM Order Is Created&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="144.5" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="450" x="1930" y="50" as="geometry" />
@@ -262,50 +244,41 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-99" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-101" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN PROGRESS&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="365" as="geometry" />
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN PLANNING&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1900" y="285" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="TM has started processing the order and is releaseing update node by node.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="350" as="geometry" />
+          <mxGeometry height="90" width="290" x="2110" y="270" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-102" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-104" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;COMPLETED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="485" as="geometry" />
+          <mxGeometry height="60" width="120" x="1900" y="405" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="All the nodes on the order are completed." vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="470" as="geometry" />
+          <mxGeometry height="90" width="290" x="2110" y="390" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-105" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-107" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FAILED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="595" as="geometry" />
+          <mxGeometry height="60" width="120" x="1900" y="515" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="TM could not provide the order.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="580" as="geometry" />
+          <mxGeometry height="90" width="290" x="2110" y="500" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-108" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-110" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;CANCELLED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="725" as="geometry" />
+          <mxGeometry height="60" width="120" x="1900" y="645" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="User cancels the mission before the TM complets the order.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="710" as="geometry" />
+          <mxGeometry height="90" width="290" x="2110" y="630" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="1260" width="820" x="2560" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-128" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-130" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;NEW&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2750" y="169.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Whent the TM order is created" vertex="1">
-          <mxGeometry height="90" width="290" x="2960" y="154.5" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-131" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -347,23 +320,14 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="User cancels the mission during the planning process for the node.&amp;nbsp;" vertex="1">
           <mxGeometry height="90" width="290" x="2970" y="910" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-164" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-166" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF99;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;SUBMITTED /&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;PATH_REQUESTED&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1900" y="255" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-166" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF99;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the order is sent to TM&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="2110" y="240" as="geometry" />
-        </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-167" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-169" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;SUBMITTED/&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;PATH_REQUESTED&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2750" y="295" as="geometry" />
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;PATH_REQUESTED&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2750" y="195" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the MC releases node to TM" vertex="1">
-          <mxGeometry height="90" width="290" x="2960" y="280" as="geometry" />
+          <mxGeometry height="90" width="290" x="2960" y="180" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-170" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-172" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -458,15 +422,6 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-200" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="1180" width="820" x="4250" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-201" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-203" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-202" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;NEW&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="4410" y="169.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-203" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="AMR order is created" vertex="1">
-          <mxGeometry height="90" width="290" x="4620" y="154.5" as="geometry" />
-        </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-204" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="450" x="4450" y="50" as="geometry" />
         </mxCell>
@@ -477,66 +432,66 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-207" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;RELEASED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="4410" y="415" as="geometry" />
+          <mxGeometry height="60" width="120" x="4420" y="295" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-208" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="The node is released to the AMR" vertex="1">
-          <mxGeometry height="90" width="290" x="4620" y="400" as="geometry" />
+          <mxGeometry height="90" width="290" x="4630" y="280" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-209" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4630" y="795" as="targetPoint" />
+            <mxPoint x="4640" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-210" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FAILED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="4420" y="765" as="geometry" />
+          <mxGeometry height="60" width="120" x="4430" y="645" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-211" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF6666;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="TM failed to fint the path for the Path node." vertex="1">
-          <mxGeometry height="90" width="290" x="4630" y="740" as="geometry" />
+          <mxGeometry height="90" width="290" x="4640" y="620" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-212" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-214" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-213" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;CANCELLED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="4420" y="885" as="geometry" />
+          <mxGeometry height="60" width="120" x="4430" y="765" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-214" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#FF9933;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="User cancels the mission during the planning process for the node.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="4630" y="870" as="geometry" />
+          <mxGeometry height="90" width="290" x="4640" y="750" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-218" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-220" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-219" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;b&gt;PATH PLANNED?&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="4410" y="295" as="geometry" />
+          <mxGeometry height="60" width="120" x="4420" y="175" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-220" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#CCCC00;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="The Node exists on the order but not released" vertex="1">
-          <mxGeometry height="90" width="290" x="4620" y="280" as="geometry" />
+          <mxGeometry height="90" width="290" x="4630" y="160" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-221" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-223" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-222" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;COMPLETED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="4410" y="635" as="geometry" />
+          <mxGeometry height="60" width="120" x="4420" y="515" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-223" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="All the actions on the node is completed and AMR is ready to move to next node.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="4620" y="620" as="geometry" />
+          <mxGeometry height="90" width="290" x="4630" y="500" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-224" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-226" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-225" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;SKIPPED&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="4420" y="1005" as="geometry" />
+          <mxGeometry height="60" width="120" x="4430" y="885" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-226" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="Special status, if the TM has to pick one location among many.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="4630" y="990" as="geometry" />
+          <mxGeometry height="90" width="290" x="4640" y="870" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-227" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-229" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-228" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN PROGRESS&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="4410" y="517" as="geometry" />
+          <mxGeometry height="60" width="120" x="4420" y="397" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-229" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="AMR is currently executing the actions on the node." vertex="1">
-          <mxGeometry height="90" width="290" x="4620" y="502" as="geometry" />
+          <mxGeometry height="90" width="290" x="4630" y="382" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-230" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="1050" width="820" x="5130" as="geometry" />
@@ -614,6 +569,24 @@
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-257" parent="1" style="whiteSpace=wrap;html=1;align=left;imageAspect=0;" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&amp;nbsp;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;manufacturer&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;HACHIDORI_ROBOTICS&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;serialNumber&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;APPU_001&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;startNodeId&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;CVCS_PICK&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;priority&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;1&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;startTimeMs&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;1728518400000&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;order&quot;&lt;/span&gt;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;manufacturer&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;HACHIDORI_ROBOTICS&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;serialNumber&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;APPU_001&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;orderId&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;001&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;orderUpdateId&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;0&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;zoneSetId&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;zone_warehouse&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;version&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;1.0&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;headerId&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;1&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;timestamp&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;2025-01-01T12:00:00Z&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;nodes&quot;&lt;/span&gt;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;nodeId&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;CVCS_PICK&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;sequenceId&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;0&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;released&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;true&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;custom&quot;&lt;/span&gt;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;stage&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;0&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;kind&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;ordered&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;nodeId&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;CVCT_PICK&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;sequenceId&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;0&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;released&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;false&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;custom&quot;&lt;/span&gt;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;stage&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;0&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;kind&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;ordered&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;&quot;edges&quot;&lt;/span&gt;: []&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="760" width="410" x="2750" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-1" edge="1" parent="1" source="3jCVmn8zOSNpn3vcC0iJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="3jCVmn8zOSNpn3vcC0iJ-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;PATH REQUESTED&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1890" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#99FF33;strokeColor=#0e8088;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the MC releases node to TM" vertex="1">
+          <mxGeometry height="90" width="290" x="2100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-4" edge="1" parent="1" source="3jCVmn8zOSNpn3vcC0iJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="3jCVmn8zOSNpn3vcC0iJ-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN PLANNING&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2750" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="THe plan node is in planning but only intermediate nodes are sent back by TM" vertex="1">
+          <mxGeometry height="90" width="290" x="2960" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
