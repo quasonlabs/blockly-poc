@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Page-1" id="FK1_Q2BvS3pfE_4uZ75u">
-    <mxGraphModel dx="1436" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2010" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,7 +246,7 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-99" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-101" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN PLANNING&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;PATH IN PLANNING&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1900" y="285" as="geometry" />
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="TM has started processing the order and is releaseing update node by node.&amp;nbsp;" vertex="1">
@@ -584,7 +584,7 @@
         <mxCell id="3jCVmn8zOSNpn3vcC0iJ-4" edge="1" parent="1" source="3jCVmn8zOSNpn3vcC0iJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="3jCVmn8zOSNpn3vcC0iJ-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN PLANNING&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;PATH IN PLANNING&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2750" y="315" as="geometry" />
         </mxCell>
         <mxCell id="3jCVmn8zOSNpn3vcC0iJ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="THe plan node is in planning but only intermediate nodes are sent back by TM" vertex="1">
@@ -611,7 +611,7 @@
         <mxCell id="3jCVmn8zOSNpn3vcC0iJ-13" edge="1" parent="1" source="3jCVmn8zOSNpn3vcC0iJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="3jCVmn8zOSNpn3vcC0iJ-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN PLANNING&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="3jCVmn8zOSNpn3vcC0iJ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;PATH IN PLANNING&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="4410" y="255" as="geometry" />
         </mxCell>
         <mxCell id="3jCVmn8zOSNpn3vcC0iJ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b1ddf0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="THe plan node is in planning but only intermediate nodes are sent back by TM" vertex="1">
