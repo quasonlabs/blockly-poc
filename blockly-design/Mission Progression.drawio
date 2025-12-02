@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2">
   <diagram name="Page-1" id="TxVh1MHaNGvB62LcO5im">
-    <mxGraphModel dx="1048" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,94 +98,94 @@
           <mxGeometry height="40" width="740" x="341" y="40" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="2817" width="865" x="1500" y="30" as="geometry" />
+          <mxGeometry height="3030" width="865" x="1500" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="xU7wOryEkwdBf90XAnsK-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Step 1 : The AMR has reached the CVCS DROP location and the user has clicked the Done button on the Material Handling Screen. This indicates that all the action on the Node is completed and the Mission Execution can request for the next node.&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="740" x="1535" y="90" as="geometry" />
+        <mxCell id="xU7wOryEkwdBf90XAnsK-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Step 1 : The AMR has reached the CVCS DROP location and the user has clicked the Done button on the Material Handling Screen. This indicates that all the action on the Node is completed and the Mission Execution can request for the next node.&amp;nbsp; Add the Next node to the TM order&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="740" x="1535" y="90" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-47" edge="1" parent="1" source="xU7wOryEkwdBf90XAnsK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xU7wOryEkwdBf90XAnsK-50" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mission Execution Gets Mission as the Input&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1535" y="141" as="geometry" />
+          <mxGeometry height="60" width="120" x="1535" y="171" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-49" edge="1" parent="1" source="xU7wOryEkwdBf90XAnsK-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xU7wOryEkwdBf90XAnsK-51" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Each Line will call an executor&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1685" y="141" as="geometry" />
+          <mxGeometry height="60" width="120" x="1685" y="171" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-51" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Adds one node to the TM order . The CVCS_DROP node is sent on TM Order" vertex="1">
-          <mxGeometry height="60" width="150" x="1865" y="141" as="geometry" />
-        </mxCell>
-        <mxCell id="xU7wOryEkwdBf90XAnsK-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Status:&lt;div&gt;1. TM Order : PATH_REQUESTED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. TM Order Line: PATH_REQUESTED&lt;/div&gt;&lt;div&gt;&lt;br&gt;3. AMR Order is not yet Created We can have an order with all the path nodes copied in Assigned status.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Mission Status: PATH_REQUESTED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Mission Line Status&amp;nbsp;&lt;/div&gt;&lt;div&gt;Lines sent to TM :&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PATH_REQUESTED&lt;/div&gt;&lt;div&gt;Other Lines: ASSIGNED&lt;/div&gt;" vertex="1">
-          <mxGeometry height="230" width="260" x="1635" y="247" as="geometry" />
+          <mxGeometry height="60" width="150" x="1865" y="171" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Step 2 : TM responds back with the Path Nodes from the AMR_1_HOME to the CVCS_DROP. The npath release will be based on the Commit ms defined.&amp;nbsp;" vertex="1">
-          <mxGeometry height="54" width="740" x="1535" y="503" as="geometry" />
+          <mxGeometry height="54" width="740" x="1535" y="733" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-54" edge="1" parent="1" source="xU7wOryEkwdBf90XAnsK-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xU7wOryEkwdBf90XAnsK-61" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;TM&amp;nbsp; Alorithm responds with the nodes and edges . releases only the partial path which has only Path Nodes.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="250" x="1535" y="577" as="geometry" />
+          <mxGeometry height="60" width="250" x="1535" y="807" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Status:&lt;div&gt;1. TM Order : PATH_IN_PLANNING&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. TM Order Line: PATH_IN_PLANNING&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. AMR Order created and the released nodes are added to the AMR Order&amp;nbsp;&lt;/div&gt;&lt;div&gt;AMR Order Status: PATH_RELEASED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. AMR Order Line:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Released lines: PATH_RELEASED&lt;/div&gt;&lt;div&gt;Plan Node not returned from TM: PATH_IN_PLANNING&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Mission Status: &lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;IN_TRANSIT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Mission Line Status&amp;nbsp;&lt;/div&gt;&lt;div&gt;Path nodes : PATH_RELEASED&lt;/div&gt;&lt;div&gt;&lt;div&gt;Plan Node :&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PATH_IN_PLANNING&lt;/div&gt;&lt;div&gt;Other Path Node Not sent to TM : ASSIGNED&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="330" width="260" x="1645" y="667" as="geometry" />
+          <mxGeometry height="330" width="260" x="1645" y="897" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Step 3: The Mission Execution service will keep callint the TM for path every 5 second till the plan node is released by the TM Say now the AMR is on an Intermediate node on the way to CVCS_PICK&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="740" x="1535" y="1037" as="geometry" />
+          <mxGeometry height="60" width="740" x="1535" y="1267" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;AMR Starts executing the order and moves to the first Plan Node CVCS_PICK. And we start receiving the state message.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="250" x="1965" y="1337" as="geometry" />
+          <mxGeometry height="60" width="250" x="1965" y="1567" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;Status:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;1. TM Order : PATH_IN_PLANNING&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. TM Order Line: PATH_IN_PLANNING&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. AMR Order created and the released nodes are added to the AMR Order&amp;nbsp;&lt;/div&gt;&lt;div&gt;AMR Order Status: IN_PROGRESS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. AMR Order Line:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Released lines: PATH_RELEASED&lt;/div&gt;&lt;div&gt;Completed lines:COMPLETED&lt;/div&gt;&lt;div&gt;Plan Node not returned from TM: PATH_IN_PLANNING&lt;/div&gt;&lt;div&gt;Lines not yet sent to TM: ASSIGNED&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Mission Status:&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;IN_TRANSIT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Mission Line Status&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Completed Path nodes : COMPLETED&lt;/div&gt;&lt;div&gt;Path Nodes yet to cover : PATH_RELEASED&lt;/div&gt;&lt;div&gt;&lt;div&gt;Plan Node :&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PATH_IN_PLANNING&lt;/div&gt;&lt;div&gt;Other Path Node Not sent to TM : ASSIGNED&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="400" width="260" x="1645" y="1147" as="geometry" />
+          <mxGeometry height="400" width="260" x="1645" y="1377" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-60" edge="1" parent="1" source="xU7wOryEkwdBf90XAnsK-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xU7wOryEkwdBf90XAnsK-62" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-61" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="TM calls the event handle_path_node event." vertex="1">
-          <mxGeometry height="60" width="120" x="1830" y="577" as="geometry" />
+          <mxGeometry height="60" width="120" x="1830" y="807" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-62" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="handlePathNode event will call the mission execution to check if there is any action to be stitched to the node.&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="215" x="2030" y="577" as="geometry" />
+          <mxGeometry height="60" width="215" x="2030" y="807" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="for TM the CVCS_DROP node is beyond the window ms hence it gives back only the path nodes on the wav to CVCS_DROP. So the CVCS_DROP on the TM order stays in PATH_IN_PLANNING status" vertex="1">
-          <mxGeometry height="100" width="250" x="1935" y="697" as="geometry" />
+          <mxGeometry height="100" width="250" x="1935" y="927" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="When the released nodes are passed on to the AMR order the path nodes released will go to PATH RELEASED status and the Plan node will remain in PATH IN PLANNING status since its not yet returned from the TM" vertex="1">
-          <mxGeometry height="100" width="250" x="1935" y="809" as="geometry" />
+          <mxGeometry height="100" width="250" x="1935" y="1039" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Every time the Mission Execution sends the TM order the start node will be updated to the cuurrent node based on the state message&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="250" x="1965" y="1187" as="geometry" />
+          <mxGeometry height="60" width="250" x="1965" y="1417" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Step 4: Now the TM will return the first Plan node CVCS_PICK . But&amp;nbsp; not yet released.&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="740" x="1535" y="1617" as="geometry" />
+          <mxGeometry height="40" width="740" x="1535" y="1847" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="250" x="1965" y="1917" as="geometry" />
+          <mxGeometry height="60" width="250" x="1965" y="2147" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;Status:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;1. TM Order : PATH_IN_PLANNING&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. TM Order Line: PATH_PLANNED&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. AMR Order created and the released nodes are added to the AMR Order&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR Order Status: IN_PROGRESS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. AMR Order Line:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Released lines: PATH_RELEASED&lt;/div&gt;&lt;div&gt;Completed lines:COMPLETED&lt;/div&gt;&lt;div&gt;Plan Node returned from TM : PATH_PLANNED&lt;/div&gt;&lt;div&gt;Lines not yet sent to TM: ASSIGNED&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Mission Status:&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;IN_TRANSIT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Mission Line Status&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Completed Path nodes : COMPLETED&lt;/div&gt;&lt;div&gt;Path Nodes yet to cover : PATH_RELEASED&lt;/div&gt;&lt;div&gt;&lt;div&gt;Plan Node :&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PATH_PLANNED&lt;/div&gt;&lt;div&gt;Other Path Node Not sent to TM : ASSIGNED&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="430" width="260" x="1645" y="1727" as="geometry" />
+          <mxGeometry height="430" width="260" x="1645" y="1957" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="250" x="1965" y="1767" as="geometry" />
+          <mxGeometry height="60" width="250" x="1965" y="1997" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Step 5: The Plan node CVCS_DROP will be released by the TM .&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="740" x="1535" y="2187" as="geometry" />
+          <mxGeometry height="40" width="740" x="1535" y="2417" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="The Actione returned by the Mission Execution will be stitched into the AMR order for that node released and will be sent to the AMR.&amp;nbsp;&lt;div&gt;This completes the mission execution service for that Block.&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="250" x="1965" y="2487" as="geometry" />
+          <mxGeometry height="90" width="250" x="1965" y="2717" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Status:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;1. TM Order : PATH_IN_PLANNING&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. TM Order Line: RELEASED&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. AMR Order created and the released nodes are added to the AMR Order&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR Order Status: IN_PROGRESS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. AMR Order Line:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Released lines: PATH_RELEASED&lt;/div&gt;&lt;div&gt;Completed lines:COMPLETED&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Lines not yet sent to TM: ASSIGNED&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Mission Status:&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;IN_TRANSIT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Mission Line Status&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Completed Path nodes : COMPLETED&lt;/div&gt;&lt;div&gt;Path Nodes yet to cover : PATH_RELEASED&lt;/div&gt;&lt;div&gt;&lt;div&gt;Plan Node :&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PATH_RELEASED&lt;/div&gt;&lt;div&gt;Other Path Node Not sent to TM : ASSIGNED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Mission Action status: RELEASED&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="430" width="260" x="1645" y="2297" as="geometry" />
+          <mxGeometry height="430" width="260" x="1645" y="2527" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="At this point when the Plan Node is released the Mission Execution needs to be called to get the actions from the mission line.&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="250" x="1965" y="2337" as="geometry" />
+          <mxGeometry height="60" width="250" x="1965" y="2567" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Goto Block 1: From CVCS_DROP to CVCS_PICK" vertex="1">
           <mxGeometry height="40" width="740" x="1536" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="xU7wOryEkwdBf90XAnsK-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Status:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;1. TM Order : PATH_IN_PLANNING&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. TM Order Line status&lt;/div&gt;&lt;div&gt;Line that is completed : Completed&lt;/div&gt;&lt;div&gt;Line now added for planning: PATH_REQUESTED&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. AMR Order created and the released nodes are added to the AMR Order&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AMR Order Status: IN_PROGRESS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. AMR Order Line:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Released lines: PATH_RELEASED&lt;/div&gt;&lt;div&gt;Completed lines:COMPLETED&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Lines not yet sent to TM: ASSIGNED&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;5. Mission Status:&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;IN_TRANSIT&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Mission Line Status&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Completed Path nodes : COMPLETED&lt;/div&gt;&lt;div&gt;Path Nodes yet to cover : PATH_RELEASED&lt;/div&gt;&lt;div&gt;&lt;div&gt;Plan Node :&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PATH_RELEASED&lt;/div&gt;&lt;div&gt;Other Path Node Not sent to TM : ASSIGNED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Mission Action status: COMPLETED&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="469" width="260" x="1630" y="241" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
