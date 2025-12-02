@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Page-1" id="FK1_Q2BvS3pfE_4uZ75u">
-    <mxGraphModel dx="6833" dy="3540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2278" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,14 +159,10 @@
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Mission Status&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="354.5" x="1135.5" y="65" as="geometry" />
         </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-55" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-57" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#C9EDF0;strokeColor=#10739e;" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;IN TRANSIT&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1050" y="555" as="geometry" />
-        </mxCell>
-        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#C9EDF0;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="When the AMR is moving towards the first Planned node of the mission.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="290" x="1260" y="540" as="geometry" />
+        <mxCell id="Pr0ZpQpU2b48OCgx9Is6-55" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="585" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Pr0ZpQpU2b48OCgx9Is6-58" edge="1" parent="1" source="Pr0ZpQpU2b48OCgx9Is6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" target="Pr0ZpQpU2b48OCgx9Is6-60" value="">
           <mxGeometry relative="1" as="geometry" />
