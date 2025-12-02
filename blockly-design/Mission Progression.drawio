@@ -100,7 +100,7 @@
         <mxCell id="xU7wOryEkwdBf90XAnsK-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="2817" width="865" x="1500" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="xU7wOryEkwdBf90XAnsK-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Step 1 : AMR is in AMR 1 Home , The mission starts from CVCS_DROP node (CVCS Store Unlocaing Location)" vertex="1">
+        <mxCell id="xU7wOryEkwdBf90XAnsK-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Step 1 : The AMR has reached the CVCS DROP location and the user has clicked the Done button on the Material Handling Screen. This indicates that all the action on the Node is completed and the Mission Execution can request for the next node.&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="740" x="1535" y="90" as="geometry" />
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-47" edge="1" parent="1" source="xU7wOryEkwdBf90XAnsK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xU7wOryEkwdBf90XAnsK-50" value="">
@@ -184,7 +184,7 @@
         <mxCell id="xU7wOryEkwdBf90XAnsK-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="At this point when the Plan Node is released the Mission Execution needs to be called to get the actions from the mission line.&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="250" x="1965" y="2337" as="geometry" />
         </mxCell>
-        <mxCell id="xU7wOryEkwdBf90XAnsK-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Goto Block 1: From HOME to CVCS_DROP" vertex="1">
+        <mxCell id="xU7wOryEkwdBf90XAnsK-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Goto Block 1: From CVCS_DROP to CVCS_PICK" vertex="1">
           <mxGeometry height="40" width="740" x="1536" y="37" as="geometry" />
         </mxCell>
       </root>
