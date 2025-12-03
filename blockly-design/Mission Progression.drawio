@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2">
   <diagram name="Page-1" id="TxVh1MHaNGvB62LcO5im">
-    <mxGraphModel dx="2490" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2109" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="xU7wOryEkwdBf90XAnsK-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="At this point when the Plan Node is released the Mission Execution needs to be called to get the actions from the mission line.&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="250" x="790" y="2900" as="geometry" />
+        </mxCell>
+        <mxCell id="xU7wOryEkwdBf90XAnsK-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="When sending the Order for the first time: We need to decide the start node.&amp;nbsp;" vertex="1">
+          <mxGeometry height="160" width="240" x="1170" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
